@@ -1,0 +1,11 @@
+/*全局样式*/
+body {
+    margin: 0;
+    padding: 0;
+}
+/*把所有的元素变成盒子模型*/
+
+* {
+    /*外边距不会占用1px的像素*/
+    box-sizing: border-box;
+}
